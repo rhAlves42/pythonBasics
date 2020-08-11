@@ -14,7 +14,11 @@ On this project the main objective solve all exercices given by my python curse.
 
 Given two numbers, save on a variable and show the sum at the end
 
+## :snake: CircleArea
 
+The formula for calculating the area of ​​a circle is: area = π. ray2. Considering for this problem that π = 3.14159:
+
+- Perform the area calculation by raising the radius value squared and multiplying by π.
 
 
 Have fun :)
